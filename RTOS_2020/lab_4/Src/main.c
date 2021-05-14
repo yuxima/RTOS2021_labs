@@ -1,3 +1,4 @@
+/*Yukhymchuk Anastasiia IT-81, RTOS, Lab 1*/
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
